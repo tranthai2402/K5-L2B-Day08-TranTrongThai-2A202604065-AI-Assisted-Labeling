@@ -5,7 +5,7 @@
 - Lớp (L2 / L3 / khác): L2B
 - Tài khoản GitHub: tranthai2402
 - Repo bài nộp (URL): https://github.com/tranthai2402/K5-L2B-Day08-TranTrongThai-2A202604065-AI-Assisted-Labeling
-- Commit chốt bài (hash): 80a158bdbf271b0ebfa4afdefa75772f0b8fd6a5
+- Commit chốt bài (hash): 80a158bdbf271b0ebfa4afdefa75772f0b8fd6a5 (commit chứa toàn bộ nội dung bài; commit cập nhật dòng hash này nằm ngay sau đó)
 - Máy: Windows 10 (build 22631), CPU (khuyến nghị chạy script trên CPU), GPU NVIDIA GeForce GTX 1650 (không dùng cho các script của bài)
 - CVAT (Docker): phần mềm bản v2.81.0
 
