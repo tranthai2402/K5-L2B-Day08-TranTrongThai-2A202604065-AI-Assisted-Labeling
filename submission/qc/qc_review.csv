@@ -1,0 +1,9 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,3,thua,thai,Box trùng lặp/fragment của tuk-tuk giữa ảnh (đã có box đầy đủ id 2) - vẽ 2 box cho 1 xe
+img_003.jpg,21,thua,thai,Box trùng lặp phần mui tuk-tuk giữa ảnh (đã có box đầy đủ id 2) - vẽ 2 box cho 1 xe
+img_003.jpg,18,thua,thai,Box motorbike lồng hoàn toàn trong box motorbike id 14 - trùng lặp
+img_006.jpg,89,thua,thai,Box person thứ hai chồng lên người id 87 - trùng lặp
+img_006.jpg,99,thua,thai,Box person nhỏ lồng trong box person id 100 - trùng lặp
+img_014.jpg,,khong,thai,Ảnh sạch - các cặp người/xe chồng nhau đúng quy tắc 4.1.4, không thấy lỗi
+img_031.jpg,580,thua,thai,Box bicycle lồng ngang trong box bicycle id 579 - trùng lặp
+img_035.jpg,652,sai_vi_tri_kich_thuoc,thai,Tách tuk-tuk thành 2 box (mui id 652 + thân id 653) thay vì 1 box bao trọn

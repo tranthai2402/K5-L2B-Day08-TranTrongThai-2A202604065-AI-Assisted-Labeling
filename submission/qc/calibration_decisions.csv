@@ -1,1 +1,4 @@
 case_id,image,nguon,van_de,quyet_dinh,quy_tac_ghi_vao_guideline,phien_ban_guideline
+CAL-01,img_013,loi_may,"YOLO26 gọi tuk-tuk là car","luôn gán three_wheeler cho xe ba bánh","mục 2 v1.0",v1.1
+CAL-02,img_004,cau_hoi_mo,"xe ba bánh có mùi vận là three_wheeler","xe ba bánh có mùi vận là three_wheeler","mục 2 v1.0",v1.1
+CAL-03,img_010,bay_lot,"bẫy thiếu nhãn xe","vẫn giữ nguyên hành động của bạn trong bẫy","bẫy lô mục 3",v1.1
